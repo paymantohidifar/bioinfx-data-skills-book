@@ -1,0 +1,8 @@
+# learning material
+materials/
+
+# Scratch data
+scratch/
+
+# ipynb files
+.ipynb_checkpoints/
